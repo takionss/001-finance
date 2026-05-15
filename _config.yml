@@ -1,5 +1,5 @@
 # 사이트 기본 설정
-title: Smiles Life - 스마트 파이낸스
+title: Smiles Life - 스마트 자산관리
 description: Smiles Life의 자산 관리 및 저축 노하우
 url: "https://takionss.github.io/001-finance"
 
@@ -28,22 +28,22 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 스마트 파이낸스"
-  en: "Smiles Life - Smart Finance"
-  ja: "Smiles Life - スマートファイナンス"
-  zh-TW: "Smiles Life - 智能金融"
-  es: "Smiles Life - Finanzas Inteligentes"
+  ko: "Smiles Life - 스마트 자산관리"
+  en: "Smiles Life - Smart Asset Management"
+  ja: "Smiles Life - スマートな資産管理"
+  zh-TW: "Smiles Life - 智能资产管理"
+  es: "Smiles Life - Gestión inteligente de activos"
 
 descriptions:
   ko: "Smiles Life의 자산 관리 및 저축 노하우"
   en: "Asset management and savings know-how by Smiles Life"
   ja: "Smiles Lifeの資産管理と貯蓄のノウハウ"
-  zh-TW: "Smiles Life - 资产管理与储蓄秘诀"
-  es: "Smiles Life - Gestión de activos y conocimientos sobre ahorro"
+  zh-TW: "Smiles Life - 资产管理与储蓄技巧"
+  es: "Smiles Life - Gestión de activos y conocimientos sobre el ahorro"
 
 random_post_titles:
   ko: "🎲 이런 글은 어떠세요?"
   en: "How about an article like this?"
   ja: "このような記事はいかがですか？"
   zh-TW: "觉得这篇文章怎么样？"
-  es: "¿Qué te parece un artículo como este?"
+  es: "¿Qué le parece un artículo como este?"
