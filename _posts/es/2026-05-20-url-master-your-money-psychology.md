@@ -3,7 +3,7 @@ layout: post
 title: "Deja de ser esclavo del dinero y toma el control total"
 description: "¿Sientes que trabajas solo para pagar cuentas? Aprende a transformar tu mentalidad financiera, romper cadenas y lograr la verdadera libertad económica hoy."
 categories: ['why', 'es']
-tags: [#FinanzasPersonales, #LibertadFinanciera, #MentalidadDeRiqueza, #EducacionFinanciera, #ExitoPersonal]
+tags: [FinanzasPersonales, LibertadFinanciera, MentalidadDeRiqueza, EducacionFinanciera, ExitoPersonal]
 lang: es
 ---
 
