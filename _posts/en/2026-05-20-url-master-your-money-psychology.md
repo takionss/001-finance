@@ -3,7 +3,7 @@ layout: post
 title: "Master Your Money: Stop Being a Slave to Your Debt"
 description: "Tired of living paycheck to paycheck? Learn how to shift your financial mindset from debt slave to wealth owner with these proven money strategies."
 categories: ['why', 'en']
-tags: [#FinancialFreedom, #DebtFreeJourney, #MoneyMindset, #WealthBuilding, #FinancialLiteracy]
+tags: [FinancialFreedom, DebtFreeJourney, MoneyMindset, WealthBuilding, FinancialLiteracy]
 lang: en
 ---
 
